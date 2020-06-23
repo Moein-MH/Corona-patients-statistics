@@ -1,9 +1,8 @@
-# Corona-patients-statistics
-Get statistics on Corona patients in each country by Python
+>Run the Corona file
 
-Run the Corona-statistics
-example:
-_________________
+**Example:**
+
+```<Python>
 World :
 
 Total Cases: 9,218,408
@@ -12,9 +11,11 @@ Total Recovered: 4,961,937
 -------
 
 Please Enter Contry name: Iran
-_____________________________________
-output:
+```
+ 
+**output:**
 
+```<Python>
 >>>
 
 ---Total Cases: 209,970
@@ -23,4 +24,4 @@ output:
 -----------------------------
 
 Continue? (yes/no) : 
-
+```
